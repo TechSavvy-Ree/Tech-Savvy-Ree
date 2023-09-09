@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @sial0606
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👋 Hi, I’m @TechSavvyRee
+- 👀 I’m interested in progrmming
+- 🌱 I’m currently learning Typescript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
-sial0606/sial0606 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+TechSavvyRee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
